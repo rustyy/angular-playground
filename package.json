@@ -1,0 +1,11 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "repository": "git@github.com:rustyy/angular-playground.git",
+  "author": "Felix Hofmann <felix.hofmann@rustyy.de>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

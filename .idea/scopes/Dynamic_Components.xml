@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Dynamic Components" pattern="file[angular-playground]:dynamic-components//*" />
+</component>
