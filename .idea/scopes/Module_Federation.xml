@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Module Federation" pattern="file[angular-playground]:module-federation//*" />
+</component>
