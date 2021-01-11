@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Routing" pattern="file[angular-playground]:routing//*" />
+</component>
