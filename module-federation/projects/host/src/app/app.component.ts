@@ -31,7 +31,7 @@ export class AppComponent implements OnInit {
   loadEntry(): Observable<any> {
     return from(
       loadRemoteModule({
-        remoteEntry: 'http://localhost:3000/remoteEntry.js',
+        remoteEntry: 'http://localhost:3000/remoteEntry.js', // Skip this if entry has been loaded before.
         remoteName: 'remote',
         exposedModule: './FirstComponent',
       })
